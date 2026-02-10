@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a modder who doesn't know what to write about.
+I am a modder who suffers from severe anxiety.
 
 
 ## 🌐 Socials:
