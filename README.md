@@ -1,6 +1,7 @@
 # 💫 About Me:
 I'm ridhoae303, I am a modder who suffers from severe anxiety.
 
+[![Social Banner](profile-banner.jpg)](https://github.com/ridhoae303)
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/ridhoae303) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ridhoae303_) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@ridhoae303) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ridhooffweb@gmail.com) 
