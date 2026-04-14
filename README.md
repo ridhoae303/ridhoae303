@@ -11,10 +11,10 @@ I'm ridhoae303, I am a modder who suffers from severe anxiety.
 
 # ⭐ Character Favorite
 
-## Kadenokouji Yukari 💕
-### 勘解由小路ユカリ 🌸
+## Miyoshi Takane 💕
+### 三善タカネ 🌸
 
-<img src="yukari.png" width="180"/>
+<img src="takane.webp" width="280"/>
 
 > *Favorite character from Blue Archive.*
 
@@ -23,7 +23,7 @@ I'm ridhoae303, I am a modder who suffers from severe anxiety.
 ## Monkey D. Luffy 🏴‍☠️
 ### モンキー・D ー・ルフィ 👒
 
-<img src="luffy.png" width="180"/>
+<img src="luffy.png" width="260"/>
 
 > *From One Piece.*
 
