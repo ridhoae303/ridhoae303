@@ -14,7 +14,7 @@ I'm ridhoae303, I am a modder who suffers from severe anxiety.
 ## Miyoshi Takane 💕
 ### 三善タカネ 🌸
 
-<img src="takane.webp" width="280"/>
+<img src="takane.png" width="280"/>
 
 > *Favorite character from Blue Archive.*
 
