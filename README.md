@@ -14,7 +14,7 @@ I'm ridhoae303, I am a modder who suffers from severe anxiety.
 ## Miyoshi Takane 💕
 ### 三善タカネ 🌸
 
-<img src="takane.png" width="240"/>
+<img src="takane.png" width="50%">
 
 > *Favorite character from Blue Archive.*
 
@@ -23,7 +23,7 @@ I'm ridhoae303, I am a modder who suffers from severe anxiety.
 ## Monkey D. Luffy 🏴‍☠️
 ### モンキー・D ー・ルフィ 👒
 
-<img src="luffy.png" width="240"/>
+<img src="luffy.png" width="50%">
 
 > *From One Piece.*
 
