@@ -1,5 +1,10 @@
 # 💫 About Me:
-I'm ridhoae303, I am a modder who suffers from severe anxiety.
+
+**I'm ridhoae303**, a modder who deals with severe anxiety.
+
+Believe it or not, most of the stuff I build is made entirely on a phone. No desktop setup, no expensive hardware — just a smartphone, caffeine, questionable decisions, and a lot of trial and error.
+
+I spend most of my time messing with reverse engineering, Android modding, anti-tamper systems, and whatever weird project catches my attention that week.
 
 [![Social Banner](profile-banner.jpg)](https://github.com/ridhoae303)
 
