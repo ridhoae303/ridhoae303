@@ -2,9 +2,9 @@
 
 **I'm ridhoae303**, a modder who deals with severe anxiety.
 
-Believe it or not, most of the stuff I build is made entirely on a phone. No desktop setup, no expensive hardware — just a smartphone, caffeine, questionable decisions, and a lot of trial and error.
+Most of my projects are built entirely from a phone. No fancy setup, no multi-monitor workstation — just a smartphone, a lot of patience, and way too many hours spent debugging things that probably shouldn't have worked in the first place.
 
-I spend most of my time messing with reverse engineering, Android modding, anti-tamper systems, and whatever weird project catches my attention that week.
+I enjoy reverse engineering, modding, Android internals, anti-tamper research, and building random ideas just to see if they can be pushed a little further.
 
 [![Social Banner](profile-banner.jpg)](https://github.com/ridhoae303)
 
