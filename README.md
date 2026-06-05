@@ -1,12 +1,12 @@
 # 💫 About Me:
 
+[![Social Banner](profile-banner.jpg)](https://github.com/ridhoae303)
+
 **I'm ridhoae303**, a modder who deals with severe anxiety.
 
 Most of my projects are built entirely from a phone. No fancy setup, no multi-monitor workstation — just a smartphone, a lot of patience, and way too many hours spent debugging things that probably shouldn't have worked in the first place.
 
 I enjoy reverse engineering, modding, Android internals, anti-tamper research, and building random ideas just to see if they can be pushed a little further.
-
-[![Social Banner](profile-banner.jpg)](https://github.com/ridhoae303)
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/ridhoae303) 
