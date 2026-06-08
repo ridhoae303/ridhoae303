@@ -8,6 +8,8 @@ Most of my projects are built entirely from a phone. No fancy setup, no multi-mo
 
 I enjoy reverse engineering, modding, Android internals, anti-tamper research, and building random ideas just to see if they can be pushed a little further.
 
+If my banner looks bad, just ignore it—don’t criticize it. I’m just using my phone, and I’m too lazy to make it look too good, hehe.
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ridhoae303_) 
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@ridhoae303) 
