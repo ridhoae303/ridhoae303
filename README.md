@@ -14,6 +14,8 @@ I enjoy reverse engineering, modding, Android internals, anti-tamper research, a
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@ridhoae303) 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ridhooffweb@gmail.com)
 
+> If you're curious about me, who the hell are you? And ignore the two anime characters below if they bother you, lol.
+
 # ⭐ Character Favorite
 
 ## Miyoshi Takane 💕
