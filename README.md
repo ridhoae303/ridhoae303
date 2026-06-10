@@ -1,25 +1,13 @@
 <div align="center">
-  <img src="./profile-banner.jpg" alt="ridhoae303 profile banner" width="100%" />
-
-  <br><br>
-
-  <p align="center">
-    <strong><font size="6">I'm ridhoae303</font></strong>
-  </p>
-
-  <p align="center">
-    <strong>Beginner Developer • Android-only Modder • Reverse Engineering Learner</strong><br>
-    No laptop. No PC. No desktop.<br>
-    Just Android, stubborn patience, and a whole lot of trial-and-error.
-  </p>
-
-  <p align="center">
-    <a href="https://instagram.com/ridhoae303_"><img src="https://img.shields.io/badge/Instagram-ridhoae303_-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-    <a href="https://tiktok.com/@ridhoae303"><img src="https://img.shields.io/badge/TikTok-ridhoae303-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" /></a>
-    <a href="mailto:ridhooffweb@gmail.com"><img src="https://img.shields.io/badge/Email-ridhooffweb%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  </p>
-
-  <p><em>Stalking my socials? Who even are you?</em></p>
+  <img src="./profile-banner.jpg" alt="ridhoae303 profile banner" width="100%" /><br>
+  <strong><font size="6">I'm ridhoae303</font></strong><br>
+  <strong>Beginner Developer • Android-only Modder • Reverse Engineering Learner</strong><br>
+  No laptop. No PC. No desktop.<br>
+  Just Android, stubborn patience, and a whole lot of trial-and-error.<br><br>
+  <a href="https://instagram.com/ridhoae303_"><img src="https://img.shields.io/badge/Instagram-ridhoae303_-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://tiktok.com/@ridhoae303"><img src="https://img.shields.io/badge/TikTok-ridhoae303-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" /></a>
+  <a href="mailto:ridhooffweb@gmail.com"><img src="https://img.shields.io/badge/Email-ridhooffweb%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a><br><br>
+  <em>Stalking my socials? Who even are you?</em>
 </div>
 
 ---
@@ -27,8 +15,6 @@
 <div align="center">
   <strong>About Me</strong>
 </div>
-
-<br>
 
 I'm **ridhoae303**, a beginner developer and modder building stuff straight from an **Android phone**.
 
@@ -46,8 +32,6 @@ My projects can look rough, my workflow can be messy, and my tools are usually s
   <strong>What I'm Into</strong>
 </div>
 
-<br>
-
 - Android modding and app tinkering
 - Reverse engineering experiments
 - Android internals
@@ -60,8 +44,6 @@ My projects can look rough, my workflow can be messy, and my tools are usually s
 <div align="center">
   <strong>Tech Stack</strong>
 </div>
-
-<br>
 
 <div align="center">
 
@@ -85,8 +67,6 @@ My projects can look rough, my workflow can be messy, and my tools are usually s
   <strong>Pac-Man Contribution Arcade</strong>
 </div>
 
-<br>
-
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ridhoae303/ridhoae303/output/pacman-contribution-graph-dark.svg">
@@ -102,8 +82,6 @@ My projects can look rough, my workflow can be messy, and my tools are usually s
   <br><br>
   <em>If these two are bugging you, just ignore 'em, hehe.</em>
 </div>
-
-<br>
 
 <div align="center">
   <table>
