@@ -1,12 +1,24 @@
 <div align="center">
-  <img src="./profile-banner.jpg" alt="ridhoae303 profile banner" width="100%" /><br>
-  <strong><font size="6">I'm ridhoae303</font></strong><br>
+  <img src="./profile-banner.jpg" alt="ridhoae303 profile banner" width="100%" />
+</div>
+
+<div align="center">
+  <strong>I'm ridhoae303</strong>
+</div>
+
+<div align="center">
   <strong>Beginner Developer • Android-only Modder • Reverse Engineering Learner</strong><br>
   No laptop. No PC. No desktop.<br>
-  Just Android, stubborn patience, and a whole lot of trial-and-error.<br><br>
+  Just Android, stubborn patience, and a whole lot of trial-and-error.
+</div>
+
+<div align="center">
   <a href="https://instagram.com/ridhoae303_"><img src="https://img.shields.io/badge/Instagram-ridhoae303_-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
   <a href="https://tiktok.com/@ridhoae303"><img src="https://img.shields.io/badge/TikTok-ridhoae303-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" /></a>
-  <a href="mailto:ridhooffweb@gmail.com"><img src="https://img.shields.io/badge/Email-ridhooffweb%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a><br><br>
+  <a href="mailto:ridhooffweb@gmail.com"><img src="https://img.shields.io/badge/Email-ridhooffweb%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</div>
+
+<div align="center">
   <em>Stalking my socials? Who even are you?</em>
 </div>
 
@@ -24,7 +36,7 @@ I mess around with Android modding, reverse engineering, app internals, anti-tam
 
 My projects can look rough, my workflow can be messy, and my tools are usually simple. But that is the Android-only grind. No fancy setup, no big flex, just learning and building from the phone.
 
-> Don’t judge my banner or my readme, just ignore it if it’s bad. Please don’t take this too seriously, lol.
+> Don’t judge my banner or my README. If it looks weird, just pretend you didn’t see it.
 
 ---
 
@@ -79,7 +91,9 @@ My projects can look rough, my workflow can be messy, and my tools are usually s
 
 <div align="center">
   <strong>Favorite Characters</strong>
-  <br><br>
+</div>
+
+<div align="center">
   <em>If these two are bugging you, just ignore 'em, hehe.</em>
 </div>
 
@@ -88,14 +102,16 @@ My projects can look rough, my workflow can be messy, and my tools are usually s
     <tr>
       <td align="center" width="50%">
         <strong>Miyoshi Takane</strong><br>
-        <sub>三善タカネ</sub><br><br>
-        <img src="./takane.png" alt="Miyoshi Takane" width="260" /><br><br>
+        <sub>三善タカネ</sub><br>
+        <img src="./takane.png" alt="Miyoshi Takane" width="76%" /><br>
+        <sub>Height: 148 cm</sub><br>
         <em>Favorite character from Blue Archive.</em>
       </td>
       <td align="center" width="50%">
         <strong>Monkey D. Luffy</strong><br>
-        <sub>モンキー・D・ルフィ</sub><br><br>
-        <img src="./luffy.png" alt="Monkey D. Luffy" width="260" /><br><br>
+        <sub>モンキー・D・ルフィ</sub><br>
+        <img src="./luffy.png" alt="Monkey D. Luffy" width="87%" /><br>
+        <sub>Height: 174 cm</sub><br>
         <em>From One Piece.</em>
       </td>
     </tr>
@@ -105,6 +121,9 @@ My projects can look rough, my workflow can be messy, and my tools are usually s
 ---
 
 <div align="center">
-  <p><strong>Android-only, but still building.</strong></p>
+  <strong>Android-only, but still building.</strong>
+</div>
+
+<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,100:0072FF&height=120&section=footer" alt="Footer wave" width="100%" />
 </div>
