@@ -4,7 +4,7 @@
   <br><br>
 
   <p align="center">
-    <strong><font size="6">Yo, I'm ridhoae303</font></strong>
+    <strong><font size="6">I'm ridhoae303</font></strong>
   </p>
 
   <p align="center">
@@ -38,7 +38,7 @@ I mess around with Android modding, reverse engineering, app internals, anti-tam
 
 My projects can look rough, my workflow can be messy, and my tools are usually simple. But that is the Android-only grind. No fancy setup, no big flex, just learning and building from the phone.
 
-> Built from a phone. Powered by curiosity. Still learning, still breaking things, still fixing them.
+> Don’t judge my banner or my readme, just ignore it if it’s bad. Please don’t take this too seriously, lol.
 
 ---
 
