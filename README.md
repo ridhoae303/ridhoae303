@@ -109,7 +109,7 @@ My projects can be messy, my workflow can be cursed, and my tools are simple. Bu
       <td align="center" width="50%">
         <strong>Miyoshi Takane</strong><br>
         <sub>三善タカネ</sub><br>
-        <img src="./takane.png" alt="Miyoshi Takane" width="260" /><br>
+        <img src="./takane.png" alt="Miyoshi Takane" width="240" /><br>
         <sub>Height: 148 cm</sub><br>
         <em>Favorite character from Blue Archive.</em>
       </td>
