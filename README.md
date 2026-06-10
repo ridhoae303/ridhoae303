@@ -2,6 +2,8 @@
   <img src="./profile-banner.jpg" alt="ridhoae303 profile banner" width="100%" />
 </div>
 
+<div align="center"><sub>&nbsp;</sub></div>
+
 <div align="center">
   <strong>I'm ridhoae303</strong>
 </div>
@@ -9,8 +11,10 @@
 <div align="center">
   <strong>Beginner Developer • Android-only Modder • Reverse Engineering Learner</strong><br>
   No laptop. No PC. No desktop.<br>
-  Just Android, stubborn patience, and a whole lot of trial-and-error.
+  Just Android, stubborn patience, and a phone that keeps carrying the whole setup.
 </div>
+
+<div align="center"><sub>&nbsp;</sub></div>
 
 <div align="center">
   <a href="https://instagram.com/ridhoae303_"><img src="https://img.shields.io/badge/Instagram-ridhoae303_-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
@@ -19,7 +23,7 @@
 </div>
 
 <div align="center">
-  <em>Stalking my socials? Who even are you?</em>
+  <em>Checking my socials? You really that curious about me?</em>
 </div>
 
 ---
@@ -28,15 +32,15 @@
   <strong>About Me</strong>
 </div>
 
-I'm **ridhoae303**, a beginner developer and modder building stuff straight from an **Android phone**.
+I'm **ridhoae303**, a beginner developer and modder building random stuff straight from an **Android phone**.
 
-My setup? Pretty cooked. I don't have a **laptop**, **PC**, or **desktop**. Internet café? I would go, but my wallet said no. So yeah, I just use whatever I have and keep pushing anyway.
+My setup is basically zero-budget mode: no **laptop**, no **PC**, no **desktop**. Internet café? I would, but my wallet is not built for that. So yeah, I just build with my phone, break things, fix them, and act like that was totally the plan.
 
-I mess around with Android modding, reverse engineering, app internals, anti-tamper research, and random experiments that look impossible at first... until they finally stop breaking.
+I mess around with Android modding, reverse engineering, app internals, anti-tamper research, and random experiments that look impossible at first... until they finally stop exploding.
 
-My projects can look rough, my workflow can be messy, and my tools are usually simple. But that is the Android-only grind. No fancy setup, no big flex, just learning and building from the phone.
+My projects can be messy, my workflow can be cursed, and my tools are simple. But that is the Android-only grind: no fancy setup, no big flex, just learning and building anyway.
 
-> Don’t judge my banner or my README. If it looks weird, just pretend you didn’t see it.
+> If my banner or README looks weird, no it doesn’t. You saw nothing.
 
 ---
 
@@ -94,8 +98,10 @@ My projects can look rough, my workflow can be messy, and my tools are usually s
 </div>
 
 <div align="center">
-  <em>If these two are bugging you, just ignore 'em, hehe.</em>
+  <em>Yeah, I put my fav characters here. If that bothers you, just scroll like nothing happened.</em>
 </div>
+
+<div align="center"><sub>&nbsp;</sub></div>
 
 <div align="center">
   <table>
@@ -103,14 +109,14 @@ My projects can look rough, my workflow can be messy, and my tools are usually s
       <td align="center" width="50%">
         <strong>Miyoshi Takane</strong><br>
         <sub>三善タカネ</sub><br>
-        <img src="./takane.png" alt="Miyoshi Takane" width="76%" /><br>
+        <img src="./takane.png" alt="Miyoshi Takane" width="260" /><br>
         <sub>Height: 148 cm</sub><br>
         <em>Favorite character from Blue Archive.</em>
       </td>
       <td align="center" width="50%">
         <strong>Monkey D. Luffy</strong><br>
         <sub>モンキー・D・ルフィ</sub><br>
-        <img src="./luffy.png" alt="Monkey D. Luffy" width="87%" /><br>
+        <img src="./luffy.png" alt="Monkey D. Luffy" width="260" /><br>
         <sub>Height: 174 cm</sub><br>
         <em>From One Piece.</em>
       </td>
