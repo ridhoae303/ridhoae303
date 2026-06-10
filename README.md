@@ -1,37 +1,52 @@
 <div align="center">
   <img src="./profile-banner.jpg" alt="ridhoae303 profile banner" width="100%" />
 
-  # Hey, I'm ridhoae303 👋
+  <br><br>
 
-  **Beginner Developer • Android-only Modder • Reverse Engineering Learner**
-
-  No laptop. No PC. No desktop.  
-  Just Android, patience, and a lot of trial-and-error.
-
-  <p>
-    <a href="https://instagram.com/ridhoae303_">Instagram</a> •
-    <a href="https://tiktok.com/@ridhoae303">TikTok</a> •
-    <a href="mailto:ridhooffweb@gmail.com">Email</a>
+  <p align="center">
+    <strong><font size="6">Yo, I'm ridhoae303</font></strong>
   </p>
+
+  <p align="center">
+    <strong>Beginner Developer • Android-only Modder • Reverse Engineering Learner</strong><br>
+    No laptop. No PC. No desktop.<br>
+    Just Android, stubborn patience, and a whole lot of trial-and-error.
+  </p>
+
+  <p align="center">
+    <a href="https://instagram.com/ridhoae303_"><img src="https://img.shields.io/badge/Instagram-ridhoae303_-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+    <a href="https://tiktok.com/@ridhoae303"><img src="https://img.shields.io/badge/TikTok-ridhoae303-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" /></a>
+    <a href="mailto:ridhooffweb@gmail.com"><img src="https://img.shields.io/badge/Email-ridhooffweb%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  </p>
+
+  <p><em>Stalking my socials? Who even are you?</em></p>
 </div>
 
 ---
 
-## 💫 About Me
+<div align="center">
+  <strong>About Me</strong>
+</div>
 
-I'm **ridhoae303**, a beginner developer and modder who builds most of my stuff straight from an **Android phone**.
+<br>
 
-My setup is not fancy. I do not have a **laptop**, **PC**, or **desktop**. Going to an internet café? I would, but I do not have the money for that either. So yeah, I just use what I have and keep building anyway.
+I'm **ridhoae303**, a beginner developer and modder building stuff straight from an **Android phone**.
 
-I like messing around with Android modding, reverse engineering, app internals, anti-tamper research, and random experiments that sometimes look impossible at first.
+My setup? Pretty cooked. I don't have a **laptop**, **PC**, or **desktop**. Internet café? I would go, but my wallet said no. So yeah, I just use whatever I have and keep pushing anyway.
 
-My projects may look rough, my tools may be simple, and my workflow may be messy, but that is part of the Android-only grind.
+I mess around with Android modding, reverse engineering, app internals, anti-tamper research, and random experiments that look impossible at first... until they finally stop breaking.
+
+My projects can look rough, my workflow can be messy, and my tools are usually simple. But that is the Android-only grind. No fancy setup, no big flex, just learning and building from the phone.
 
 > Built from a phone. Powered by curiosity. Still learning, still breaking things, still fixing them.
 
 ---
 
-## 🛠️ What I'm Into
+<div align="center">
+  <strong>What I'm Into</strong>
+</div>
+
+<br>
 
 - Android modding and app tinkering
 - Reverse engineering experiments
@@ -42,7 +57,11 @@ My projects may look rough, my tools may be simple, and my workflow may be messy
 
 ---
 
-## 💻 Tech Stack
+<div align="center">
+  <strong>Tech Stack</strong>
+</div>
+
+<br>
 
 <div align="center">
 
@@ -62,30 +81,44 @@ My projects may look rough, my tools may be simple, and my workflow may be messy
 
 ---
 
-## 🟩 Pac-Man Contribution Arcade
+<div align="center">
+  <strong>Pac-Man Contribution Arcade</strong>
+</div>
+
+<br>
 
 <div align="center">
-  <img src="./assets/pacman-contribution.svg" alt="Pac-Man contribution arcade" width="100%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ridhoae303/ridhoae303/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ridhoae303/ridhoae303/output/pacman-contribution-graph.svg">
+    <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/ridhoae303/ridhoae303/output/pacman-contribution-graph.svg" width="100%">
+  </picture>
 </div>
 
 ---
 
-## ⭐ Favorite Characters
+<div align="center">
+  <strong>Favorite Characters</strong>
+  <br><br>
+  <em>If these two are bugging you, just ignore 'em, hehe.</em>
+</div>
+
+<br>
 
 <div align="center">
   <table>
     <tr>
       <td align="center" width="50%">
-        <h3>Miyoshi Takane</h3>
-        <p><strong>三善タカネ</strong></p>
-        <img src="./takane.png" alt="Miyoshi Takane" width="260" />
-        <p><em>Favorite character from Blue Archive.</em></p>
+        <strong>Miyoshi Takane</strong><br>
+        <sub>三善タカネ</sub><br><br>
+        <img src="./takane.png" alt="Miyoshi Takane" width="260" /><br><br>
+        <em>Favorite character from Blue Archive.</em>
       </td>
       <td align="center" width="50%">
-        <h3>Monkey D. Luffy</h3>
-        <p><strong>モンキー・D・ルフィ</strong></p>
-        <img src="./luffy.png" alt="Monkey D. Luffy" width="260" />
-        <p><em>From One Piece.</em></p>
+        <strong>Monkey D. Luffy</strong><br>
+        <sub>モンキー・D・ルフィ</sub><br><br>
+        <img src="./luffy.png" alt="Monkey D. Luffy" width="260" /><br><br>
+        <em>From One Piece.</em>
       </td>
     </tr>
   </table>
@@ -94,9 +127,6 @@ My projects may look rough, my tools may be simple, and my workflow may be messy
 ---
 
 <div align="center">
-
-### Android-only, but still building.
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,100:0072FF&height=120&section=footer" alt="Footer wave" width="100%" />
-
+  <p><strong>Android-only, but still building.</strong></p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,100:0072FF&height=120&section=footer" alt="Footer wave" width="100%" />
 </div>
